@@ -8,3 +8,5 @@ Auteur original : [Johan-perso](https://gist.github.com/johan-perso)
 Édité pour upload des fichiers allant jusqu'à 500Mo maximum.
 
 Les autres fichiers n'ont pas été modifiés
+
+![Exemple-free](https://github.com/Anezium/Free-Transfert/blob/main/exemple-free.jpg)
