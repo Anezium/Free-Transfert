@@ -1,7 +1,7 @@
 # Free-Transfert
 Free Transfert Upload &amp; Download (reversed) API 
 
-Auteur original [Johan-perso](https://gist.github.com/johan-perso)
+Auteur original : [Johan-perso](https://gist.github.com/johan-perso)
 
 ## freetransfer-upload.js
 
